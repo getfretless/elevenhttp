@@ -39,8 +39,8 @@ If you like, you can save this to a file:
 
 and run it like this:
 ```
-chmod +x server
-./server
+chmod +x rubyserve
+./rubyserve
 ```
 
 Open `localhost:3000` you'll see the contents of the directory you started the server in. Click on `hello.cgi`
