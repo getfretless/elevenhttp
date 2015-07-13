@@ -43,6 +43,8 @@ chmod +x rubyserve
 ./rubyserve
 ```
 
+Windows users, see [this forum topic](https://www.ruby-forum.com/topic/101462#818713)
+
 Open `localhost:5000` you'll see the contents of the directory you started the server in. Click on `hello.cgi`
 
 *YAY!*
